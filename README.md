@@ -1,5 +1,21 @@
 # Getting Started with Create React App
 
+# Deployed Netlify Link
+
+https://flamboyant-joliot-32ee1e.netlify.app
+
+# Deployed heroku Link
+
+https://flix-be.herokuapp.com/
+
+# Github Backend Link
+
+https://github.com/Suryahbk/flix-backend
+
+# Admin Login 
+username: Surya@gmail.com 
+password: 123456
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
